@@ -1,7 +1,7 @@
 # Doodle
 Offline Examination System
 
-Doodle v6.0
+Doodle v3.3
 Date - 07/02/2022
 
 ---------------------------------------------------------------------------------------------------------------------------
@@ -15,4 +15,4 @@ Installation :
 Changes:
 1. Edit Profile feature added. Change password feature added.
 2. Now you can schedule question papers after creating them.
-3. Minor bug fixes.
+3. Minor bug fixes from previous versions.
