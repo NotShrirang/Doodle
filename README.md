@@ -8,8 +8,8 @@ Date - 13/02/2022
 Hello!
 
 Some features added:
-1. Added encryption to question papers.
-2. Now you can added images in questions.
+1. Now you can import questions from ".txt" files.
+2. Also, you can export your question paper to ".pdf" file.
 3. Minor bug fixes from previous versions.
 
 ---------------------------------------------------------------------------------------------------------------------------
