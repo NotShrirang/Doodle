@@ -9,7 +9,7 @@ Hello!
 
 Some features added:
 1. Added encryption to question papers.
-2. Now you can added images in questions.
+2. Now you can add images in questions.
 3. Minor bug fixes from previous versions.
 
 ---------------------------------------------------------------------------------------------------------------------------
