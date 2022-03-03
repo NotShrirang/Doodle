@@ -17,7 +17,7 @@ Some features added:
 4. You can add images in questions.
 5. Minor bug fixes from previous versions.
 
-Check "Releases" to download.
+Check "Releases" to download. <a href="https://github.com/NotShrirang/Doodle/releases/tag/v5.2.0"> Here </a>
 ---------------------------------------------------------------------------------------------------------------------------
 
 System Requirements:
