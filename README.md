@@ -1,5 +1,5 @@
-# Doodle
-Offline Examination System
+<h1># Doodle</h1>
+<h2>Offline Examination System</h2>
 
 Doodle Version 5.2.0
 Date - 03/03/2022
@@ -20,6 +20,7 @@ Some features added:
 Check <a href="https://github.com/NotShrirang/Doodle/releases/tag/v5.2.0">Releases</a> to download.
 
 Also check our website : <a href="https://sites.google.com/view/doodlein/home">https://sites.google.com/view/doodlein/home</a>
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 System Requirements:
