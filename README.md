@@ -1,4 +1,4 @@
-<h1># Doodle</h1>
+<h1>Doodle</h1>
 <h2>Offline Examination System</h2>
 
 Doodle Version 5.2.0
