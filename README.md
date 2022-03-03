@@ -18,6 +18,7 @@ Some features added:
 5. Minor bug fixes from previous versions.
 
 Check <a href="https://github.com/NotShrirang/Doodle/releases/tag/v5.2.0">Releases</a> to download.
+
 Also check our website : <a href="https://sites.google.com/view/doodlein/home">https://sites.google.com/view/doodlein/home</a>
 ---------------------------------------------------------------------------------------------------------------------------
 
