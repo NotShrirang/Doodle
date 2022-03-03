@@ -1,19 +1,23 @@
 # Doodle
 Offline Examination System
 
-Doodle Version 4.0.0
-Date - 13/02/2022
+Doodle Version 5.2.0
+Date - 03/03/2022
 
 ---------------------------------------------------------------------------------------------------------------------------
 Hello!
 
+This is Offline Examination System.
+Developed in : Python (TKinter), SQL.
+
 Some features added:
-1. Added encryption to question papers.
-2. Now you can add images in questions.
-3. Minor bug fixes from previous versions.
+1. You can import questions from ".txt" files.
+2. You can export question paper ".pdf" files.
+3. Added encryption to question papers.
+4. You can add images in questions.
+5. Minor bug fixes from previous versions.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
 System Requirements:
-1. Latest version Python Installed.
-2. Windows or Linux OS.
+1. Windows 10 (64-bit) or Linux OS.
