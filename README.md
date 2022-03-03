@@ -17,6 +17,7 @@ Some features added:
 4. You can add images in questions.
 5. Minor bug fixes from previous versions.
 
+Check "Releases" to download.
 ---------------------------------------------------------------------------------------------------------------------------
 
 System Requirements:
