@@ -11,7 +11,7 @@ Hello!
 <h3>Introducing <b>Doodle</b>, an offline examination system!</h3>
 Developed by students, for students!
 
-<h3><p>Check <a href="https://github.com/NotShrirang/Doodle/releases/tag/v1.7.3">Releases</a> to download Doodle!</p></h3>
+<h3><p>Check <a href="https://github.com/NotShrirang/Doodle/releases/tag/v1.7.4">Releases</a> to download Doodle!</p></h3>
 
 Prominent Features:
 1. No network connectivity is needed while creating, editing, solving and checking question paper.
