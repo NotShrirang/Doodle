@@ -28,6 +28,6 @@ Visit our website <a href="https://sites.google.com/view/doodlein/home">https://
 ---------------------------------------------------------------------------------------------------------------------------
 
 <h2>System Architecture :</h2>
-Developed in : Python (TKinter), SQL.
+Developed in : Python (TKinter), SQL (sqlite3).
 <h2>System Requirements:</h2>
 1. Windows 10 (64-bit) or Linux OS.
